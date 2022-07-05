@@ -6,7 +6,8 @@ The LoCoMock score is useful in docking simulation for membrane protein.
 It use membrane position and logP to validate docking poses.
   
 # DEMO  
-Demonstration...
+![demonstration](https://user-images.githubusercontent.com/3397013/177257670-1094ffc2-cceb-4be6-a1fb-795fd3af8f34.png)
+
 
 # Features
 
