@@ -23,11 +23,14 @@ Demonstration...
  - rdkit                     2021.03.5
  
 # Installation
-Place LoCoMock_basic.ipynb in the directory "Jupyter_Dock".
+Place LoCoMock_std.ipynb in the directory "Jupyter_Dock".
 
  
 # Usage
-Launch LoCoMock_basic.ipynb.
+Launch LoCoMock_std.ipynb.
+
+
+Place PDB files for protein (protein.pdb) and ligand (ligand.pdb) in the ./LoCoMock/{str_id} .
 
  
 # Note
