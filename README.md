@@ -38,7 +38,7 @@ Place PDB files for protein (protein.pdb) and ligand (ligand.pdb) in the ./LoCoM
 Please cite this paper.
 
 
-Rikuri Morita, Yasuteru Shigeta, Ryuhei Harada. LogP-corrected Membrane Docking for Ligand-Protein Complexes. Submitted (2022)DOI:[https://doi.org/]
+Rikuri Morita, Yasuteru Shigeta, Ryuhei Harada. LoCoMock: LogP-corrected Membrane Docking for Protein–Ligand Complexes. Submitted (2022)DOI:[https://doi.org/]
 
  
 # Author
