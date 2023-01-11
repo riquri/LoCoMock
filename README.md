@@ -39,7 +39,7 @@ Place PDB files for protein (protein.pdb) and ligand (ligand.pdb) in the ./LoCoM
 Please cite this paper.
 
 
-Rikuri Morita, Yasuteru Shigeta, Ryuhei Harada. LoCoMock: LogP-corrected Membrane Docking for Protein–Ligand Complexes. Submitted (2022)DOI:[https://doi.org/]
+Rikuri Morita, Yasuteru Shigeta, Ryuhei Harada. Efficient Screening of Protein-Ligand Complexes in Lipid Bilayers Using LoCoMock Score. Submitted (2023)DOI:[https://doi.org/]
 
  
 # Author
