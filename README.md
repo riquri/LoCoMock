@@ -24,7 +24,7 @@ It use membrane position and logP to validate docking poses.
  - rdkit                     2021.03.5
  
 # Installation
-Install AutoDock, JupyterDock, and other required packages.
+Install AutoDock, [JupyterDock](https://github.com/AngelRuizMoreno/Jupyter_Dock), and other required packages.
 Place LoCoMock_std.ipynb in the directory "Jupyter_Dock".
 
  
