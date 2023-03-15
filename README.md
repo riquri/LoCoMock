@@ -15,12 +15,13 @@ It use membrane position and logP to validate docking poses.
   
 - Jupyter_Dock (v0.2.5)
 - Python 3.x (3.10.9)
- - matplotlib                3.6.3
- - numpy                     1.23.5
- - py3dmol                   2.0.1
- - vina                      1.2.3
- - openbabel                 3.1.1
- - rdkit                     2022.09.4
+ - matplotlib                (3.6.3)
+ - numpy                     (1.23.5)
+ - py3dmol                   (2.0.1)
+ - vina                      (1.2.3)
+ - openbabel                 (3.1.1)
+ - rdkit                     (2022.09.4)
+ 
  
 # Installation
 Install AutoDock, [JupyterDock](https://github.com/AngelRuizMoreno/Jupyter_Dock), and other required packages.
