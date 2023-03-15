@@ -6,8 +6,7 @@ The LoCoMock score is useful in docking simulation for membrane protein.
 It use membrane position and logP to validate docking poses.
   
 # DEMO  
-![demonstration](https://user-images.githubusercontent.com/3397013/177257670-1094ffc2-cceb-4be6-a1fb-795fd3af8f34.png)
-
+![github_demo](https://user-images.githubusercontent.com/3397013/225182550-fb2f4b51-b209-484b-8592-6374a0fbaf1c.png)
 
 # Features
 
@@ -15,13 +14,13 @@ It use membrane position and logP to validate docking poses.
 # Requirement (validated version)
   
 - Jupyter_Dock (v0.2.5)
-- Python 3.x (3.7.10)
- - matplotlib                3.4.3
- - numpy                     1.19.1
- - py3dmol                   0.9.2
- - vina                      1.2.2
+- Python 3.x (3.10.9)
+ - matplotlib                3.6.3
+ - numpy                     1.23.5
+ - py3dmol                   2.0.1
+ - vina                      1.2.3
  - openbabel                 3.1.1
- - rdkit                     2021.03.5
+ - rdkit                     2022.09.4
  
 # Installation
 Install AutoDock, [JupyterDock](https://github.com/AngelRuizMoreno/Jupyter_Dock), and other required packages.
@@ -39,7 +38,7 @@ Place PDB files for protein (protein.pdb) and ligand (ligand.pdb) in the ./LoCoM
 Please cite this paper.
 
 
-Rikuri Morita, Yasuteru Shigeta, Ryuhei Harada. Efficient Screening of Protein-Ligand Complexes in Lipid Bilayers Using LoCoMock Score. Submitted (2023)DOI:[https://doi.org/]
+Rikuri Morita, Yasuteru Shigeta, Ryuhei Harada. Efficient Screening of Protein-Ligand Complexes in Lipid Bilayers Using LoCoMock Score. (2023) J. Comput. Aided Mol. Des. DOI:[https://doi.org/]
 
  
 # Author
@@ -49,6 +48,5 @@ Rikuri Morita, Yasuteru Shigeta, Ryuhei Harada. Efficient Screening of Protein-L
  
 # License
 LoCoMock is a modified extension of Jupyter_Dock[https://github.com/AngelRuizMoreno/Jupyter_Dock].
-
 
 LoCoMock is under MIT license.
