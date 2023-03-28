@@ -39,7 +39,7 @@ Place PDB files for protein (protein.pdb) and ligand (ligand.pdb) in the ./LoCoM
 Please cite this paper.
 
 
-Rikuri Morita, Yasuteru Shigeta, Ryuhei Harada. Efficient Screening of Protein-Ligand Complexes in Lipid Bilayers Using LoCoMock Score. (2023) J. Comput. Aided Mol. Des. DOI:[https://doi.org/]
+Rikuri Morita, Yasuteru Shigeta, Ryuhei Harada. Efficient Screening of Protein-Ligand Complexes in Lipid Bilayers Using LoCoMock Score. (2023) J. Comput. Aided Mol. Des. DOI:[https://doi.org/10.1007/s10822-023-00502-8]
 
  
 # Author
